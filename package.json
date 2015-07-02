@@ -1,5 +1,5 @@
 {
-  "name": "react web app build",
+  "name": "react-web-app-build",
   "version": "1.0.0",
   "description": "react web app build",
   "main": "gulpfile.js",
