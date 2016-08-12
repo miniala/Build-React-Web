@@ -130,4 +130,4 @@ gulp.task('require-production', function () {
 	  .pipe(gulp.dest(paths.production + '/js/bundle-require'));
 })
 
-gulp.task('default', ['connect', 'watch'])
+gulp.task('default', ['connect', 'watch']);
