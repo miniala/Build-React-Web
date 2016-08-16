@@ -28,7 +28,7 @@ var external = ['react', 'react-dom', 'react-router'];
 gulp.task('connect', function () {
 	connect.server({
 		root: './public',
-		livereload: true
+		livereload: true,
 	})
 })
 
